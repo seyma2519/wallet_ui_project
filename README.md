@@ -1,5 +1,5 @@
 # wallet_ui
-
+![wallet](https://user-images.githubusercontent.com/111289223/205138264-264eb5fe-0be3-4fc6-b067-f587424a8d59.jpg)
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
